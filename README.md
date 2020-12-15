@@ -10,7 +10,7 @@ A Minecraft Battle Royale made with a Datapack.
 (If you have any problems, please leave a comment on the release.)
 
 ## Usage
-Go to a location, then, when everyone is ready, run the command `/function scripts:startgame`. The border's center will be where you are when you start the game. Each storm is separated by 2 minutes, the first one being used by the storm shrinking. A game can last up to 30 minutes, or even more, depending on how long it takes for the remaining players to finish fighting on the final stage. The game will automatically end when there is 1 player remaining. **Before you use the datapack, please read the Licensing section.**
+Go to a location, then, when everyone is ready, run the command `/function scripts:startgame`. The border's center will be where you are when you start the game. Each border shrink is separated by 2 minutes, the first one being used by the border shrinking. A game can last up to 30 minutes, or even more, depending on how long it takes for the remaining players to finish fighting on the final stage. The game will automatically end when there is 1 player remaining. **Before you use the datapack, please read the Licensing section.**
 
 ## Editing the Source Code
 While the source code can be found directly in the release, you can clone the code using Git or GitHub Desktop. You can use [MCStacker](http://mcstacker.net/) or [Minecraft Tools](https://minecraft.tools/) to generate commands. Also, get ready for [this Minecraft Wiki page](https://minecraft.gamepedia.com/Commands) to become your best friend. **Before you edit, please read the Licensing section.**
