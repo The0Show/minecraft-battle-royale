@@ -25,7 +25,7 @@ You **cannot** do the following with my pack:
  - Pass it off as your own.
  - Make a different version of it and pass it off as your own.
  - Remove my credit in the `init.mcfunction` file.
- - Sell my pack.
+ - Sell my datapack.
 
 I recommend just making pull requests to this repository.
 
