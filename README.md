@@ -4,9 +4,10 @@ If you are only interested in how to use it, skip to the "Usage" section.
 
 ## Download Instructions
 1. [Download the latest release from the releases section of this repository.](https://github.com/The0Show/minecraft-battle-royale/releases)
-2. Go to the world folder in your server files.
-3. Upload the downloaded Datapack to the **datapack** folder.
-4. Start your server.
+2. Make sure that your server software is Vanilla!
+3. Go to the world folder in your server files.
+4. Upload the downloaded Datapack to the **datapack** folder.
+5. Start your server.
 (If you have any problems, please leave a comment on the release.)
 
 ## Usage
