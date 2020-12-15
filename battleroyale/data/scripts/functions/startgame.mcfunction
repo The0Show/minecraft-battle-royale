@@ -15,7 +15,7 @@ effect give @a minecraft:regeneration 5 255 true
 effect give @a minecraft:saturation 1 10 true
 clear @a
 tellraw @a {"text": "Now teleporting players, we recommend that you don't move until you have been teleported."}
-## scoreboard players set max playercount 0
+scoreboard players set max playercount 0
 execute at @a run scoreboard players add max playercount 1
 execute at @a run scoreboard players operation total playercount = max playercount
 scoreboard players set true? isgame 1
