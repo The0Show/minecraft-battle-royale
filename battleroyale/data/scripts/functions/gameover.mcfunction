@@ -1,3 +1,5 @@
+## © 2020 The0Show. All rights reserved.
+
 scoreboard players set true? isgame 0
 title @a subtitle {"selector":"@a[gamemode=survival]"}
 title @a title {"text":"Victory Royale","color":"yellow"}

@@ -1,3 +1,5 @@
+## © 2020 The0Show. All rights reserved.
+
 gamerule sendCommandFeedback false
 gamerule doImmediateRespawn true
 gamerule spawnRadius 0

@@ -1,3 +1,5 @@
+## © 2020 The0Show. All rights reserved.
+
 spawnpoint @a ~ ~ ~
 setworldspawn ~ ~ ~
 gamemode survival @a
