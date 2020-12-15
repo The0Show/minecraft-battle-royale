@@ -1,6 +1,5 @@
 # Minecraft Battle Royale
 A Minecraft Battle Royale made with a Datapack.
-If you are only interested in how to use it, skip to the "Usage" section.
 
 ## Download Instructions
 1. [Download the latest release from the releases section of this repository.](https://github.com/The0Show/minecraft-battle-royale/releases)
