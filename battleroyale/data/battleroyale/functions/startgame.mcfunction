@@ -1,4 +1,4 @@
-## © 2020 The0Show. All rights reserved.
+## © 2020-2022 The0Show. All rights reserved.
 
 spawnpoint @a ~ ~ ~
 setworldspawn ~ ~ ~
@@ -22,4 +22,4 @@ scoreboard players set true? isgame 1
 spreadplayers ~ ~ 1000 2000 false @a
 title @a subtitle {"text":"Everyone has Resistance for 1 minute"}
 title @a title {"text":"Game has Started"}
-schedule function scripts:border 180s
+schedule function battleroyale:border 180s
